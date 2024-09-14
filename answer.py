@@ -1,9 +1,9 @@
 {
   "answer": {
-    "choice_1": 9,
-    "choice_2": 6,
-    "choice_3": 12,
-    "choice_4": 1
+    "choice_1": 4,
+    "choice_2": 8,
+    "choice_3": 15,
+    "choice_4": 16
   },
   "expires": 1726315200
 }
