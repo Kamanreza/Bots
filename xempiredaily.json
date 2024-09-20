@@ -92,5 +92,10 @@
     "riddle":"STAKING",
     "rebus":"SPREAD",
     "funds":["electric_vehicle_manufacturers","gold_mining_tools","blockchain_projects"]
+  },
+    "2024-09-21": {
+    "riddle":"STAKING",
+    "rebus":"Targeting",
+    "funds":["electric_vehicle_manufacturers","gold_mining_tools","blockchain_projects"]
   }
 }
